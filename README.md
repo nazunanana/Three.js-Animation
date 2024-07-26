@@ -14,5 +14,5 @@ https://nazunanana.github.io/Three.js-Animation/
 
 
 ## 使用している技術
--Three.js
--Cannon.js
+- Three.js
+- Cannon.js
